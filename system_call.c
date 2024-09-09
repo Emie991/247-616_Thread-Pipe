@@ -12,10 +12,10 @@
 #include <stdio.h>
 
 /**
- * 
- *
- *
- *
+ *Ce programme affiche 3 textes : processus 1, processus 3 et processus 5.
+ *La commande sleep 10 met le programme en pause pendant 10 seconde.
+ *La commande sleep 5 met le programme en pause pendant 5 secondes. 
+ *Ce programme affiche "terminé" lorsque le programme est finit.
  * @return     0 
  */
 int main() {
